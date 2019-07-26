@@ -1,7 +1,2 @@
 .DS_Store
-.idea/*
-.idea/misc.xml
-.idea/modules.xml
-.idea/ULMFiT-fastai-text-classifier.iml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea
